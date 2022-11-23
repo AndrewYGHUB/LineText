@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-    <a href="https://www.github.com/andrewyghub.github.io/linetext/stargazers" target="_black">
-        <img src="https://img.shields.io/github/stars/andrewyghub.github.io/linetext?logo=github" alt="stars" />
+    <a href="https://www.github.com/andrewyghub.github.io/LineText/stargazers" target="_black">
+        <img src="https://img.shields.io/github/stars/andrewyghub.github.io/LineText?logo=github" alt="stars" />
     </a>
-    <a href="https://www.github.com/andrewyghub.github.io/linetext/network/members" target="_black">
-        <img src="https://img.shields.io/github/forks/andrewyghub.github.io/linetext?logo=github" alt="forks" />
+    <a href="https://www.github.com/andrewyghub.github.io/LineText/network/members" target="_black">
+        <img src="https://img.shields.io/github/forks/andrewyghub.github.io/LineText?logo=github" alt="forks" />
     </a>
-    <a href="https://www.github.com/andrewyghub.github.io/linetext/blob/master/LICENSE" target="_black">
-        <img src="https://img.shields.io/github/license/andrewyghub.github.io/linetext?color=%232DCE89&logo=github" alt="license" />
+    <a href="https://www.github.com/andrewyghub.github.io/LineText/blob/master/LICENSE" target="_black">
+        <img src="https://img.shields.io/github/license/andrewyghub.github.io/LineText?color=%232DCE89&logo=github" alt="license" />
     </a>
     <a href="https://www.typescriptlang.org" target="_black">
         <img src="https://img.shields.io/badge/language-TypeScript-blue.svg" alt="language">
     </a>
-    <a href="https://github.com/andrewyghub.github.io/linetext/issues" target="_black">
-        <img src="https://img.shields.io/github/issues-closed/andrewyghub.github.io/linetext.svg" alt="issue">
+    <a href="https://github.com/andrewyghub.github.io/LineText/issues" target="_black">
+        <img src="https://img.shields.io/github/issues-closed/andrewyghub.github.io/LineText.svg" alt="issue">
     </a>
 </p>
 
@@ -24,7 +24,7 @@
 # 🎨 PPTist
 > 一个基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，支持 文字、图片、形状、线条、图表、表格、视频、音频、公式 几种最常用的元素类型，每一种元素都拥有高度可编辑能力，同时支持丰富的快捷键和右键菜单，支持导出本地 PPTX 文件，支持移动端基础编辑和预览，支持 PWA。您可以在此基础上搭建自己的在线幻灯片应用。
 
-<b>在线体验地址：[https://andrewyghub.github.io/linetext/](https://andrewyghub.github.io/linetext/)</b>
+<b>在线体验地址：[https://andrewyghub.github.io/LineText/](https://andrewyghub.github.io/LineText/)</b>
 
 
 # 👀 前排提示
@@ -32,7 +32,7 @@
 2. 本项目的目标受众是<b>有【Web 幻灯片】开发需求的开发者</b>，提供的链接只是一个演示地址，不提供任何在线服务。你不应该直接将本项目作为工具使用，也不支持一键部署。
 如果你只是需要一个服务或工具，可以选择更优秀和成熟的产品，例如：[石墨文档](https://shimo.im/)、[金山文档](https://www.kdocs.cn/)、[Slidev](https://sli.dev/)、[revealjs](https://revealjs.com/) 等。
 3. 本项目是基于 DOM 的渲染方案，优点是简单易上手。但是相比 Canvas 渲染的方案，在复杂场景下性能会存在一定的差距，所以如果你对性能有较高的要求，本项目可能不是一个好的选择/参考方向。
-4. 这里总结了一些[常见问题](https://github.com/andrewyghub.github.io/linetext/blob/master/doc/Q&A.md)，第一次提 Issues 和 PR 时，务必提前阅读此文档。
+4. 这里总结了一些[常见问题](https://github.com/andrewyghub.github.io/LineText/blob/master/doc/Q&A.md)，第一次提 Issues 和 PR 时，务必提前阅读此文档。
 
 
 # 🚀 项目运行
@@ -170,9 +170,9 @@ npm run serve
 
 # 🎯 开发
 目前没有完整的开发文档，但下面这些文档可能会对你有一些帮助：
-- [项目目录与数据结构](https://github.com/andrewyghub.github.io/linetext/blob/master/doc/DirectoryAndData.md)
-- [画布与元素的基本原理](https://github.com/andrewyghub.github.io/linetext/blob/master/doc/Canvas.md)
-- [如何自定义一个元素](https://github.com/andrewyghub.github.io/linetext/blob/master/doc/CustomElement.md)
+- [项目目录与数据结构](https://github.com/andrewyghub.github.io/LineText/blob/master/doc/DirectoryAndData.md)
+- [画布与元素的基本原理](https://github.com/andrewyghub.github.io/LineText/blob/master/doc/Canvas.md)
+- [如何自定义一个元素](https://github.com/andrewyghub.github.io/LineText/blob/master/doc/CustomElement.md)
 
 
 # 💻 贡献代码
@@ -196,6 +196,6 @@ npm run serve
 
 
 # 📄 开源协议
-[GPL-3.0 license](https://github.com/andrewyghub.github.io/linetext/blob/master/LICENSE) © [andrewyghub](https://github.com/andrewyghub)
+[GPL-3.0 license](https://github.com/andrewyghub.github.io/LineText/blob/master/LICENSE) © [andrewyghub](https://github.com/andrewyghub)
 
 闭源商用请先邮件联系作者
