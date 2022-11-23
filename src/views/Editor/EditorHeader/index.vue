@@ -6,7 +6,7 @@
         <template #overlay>
           <Menu>
             <FileInput accept=".pptist"  @change="files => importSpecificFile(files)">
-              <MenuItem>导入 pptist 文件</MenuItem>
+              <MenuItem>导入 linetext 文件</MenuItem>
             </FileInput>
             <MenuItem @click="setDialogForExport('pptx')">导出文件</MenuItem>
           </Menu>
